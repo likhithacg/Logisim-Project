@@ -18,3 +18,8 @@ This project focuses on the design and implementation of a 4-bit Central Process
 
 ## Objective
 To understand the basic architecture and working principles of a CPU through digital circuit design and simulation.
+
+
+## 4-bit CPU Circuit
+
+![4-bit CPU Circuit](4bit_CPU_screenshot.png)
